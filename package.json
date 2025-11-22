@@ -30,7 +30,7 @@
     "uuid": "^8.3.2"
   },
   "devDependencies": {
-    "chai": "^6.2.1",
+    "chai": "^4.3.7",
     "mocha": "^11.7.5",
     "nodemon": "^3.1.10"
   }
